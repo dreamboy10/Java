@@ -1,0 +1,1 @@
+double value = 2e-350;
