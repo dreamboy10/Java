@@ -1,4 +1,4 @@
-package chap05.exam04_null;
+package sec05.exam04_null;
 
 public class NullPointerExceptionExample {
 

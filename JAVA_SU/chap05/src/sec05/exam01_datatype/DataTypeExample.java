@@ -1,4 +1,4 @@
-package chap05.exam01_datatype;
+package sec05.exam01_datatype;
 
 public class DataTypeExample {
 

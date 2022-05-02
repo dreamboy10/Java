@@ -1,4 +1,4 @@
-package chap05.exam02_memory;
+package sec05.exam02_memory;
 
 public class MemoryExample2 {
 
