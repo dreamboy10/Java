@@ -1,4 +1,4 @@
-package sec05.exam10.arrayreferenceobject;
+package sec05.exam10_arrayreferenceobject;
 
 public class ArrayReferenceObjectExample {
 
