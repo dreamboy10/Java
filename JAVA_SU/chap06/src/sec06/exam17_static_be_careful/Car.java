@@ -1,4 +1,4 @@
-package sec06.exam17.static_be_careful;
+package sec06.exam17_static_be_careful;
 
 public class Car {
 	int speed;
